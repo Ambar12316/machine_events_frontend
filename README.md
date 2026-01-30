@@ -3,7 +3,7 @@
 
 ## Input JSON format
 
-'''bash
+```bash
 [
   {
     "eventId": "E-006",
@@ -45,4 +45,4 @@
     "durationMs": 1000,
     "defectCount": 0
   }
-] '''
+] 
